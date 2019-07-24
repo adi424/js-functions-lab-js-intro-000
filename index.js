@@ -7,3 +7,8 @@ function happyHolidaysTo(name){
   if (name);
   return "Happy holidays, you!"
 }
+
+function happyHolidayTo(holiday, name){
+  if (name);
+  return "Happy ${holiday}, ${name}!"
+}
